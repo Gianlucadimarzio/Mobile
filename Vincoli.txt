@@ -1,3 +1,0 @@
-The max length of this document is 20 pages
-The structure of this document is fixed, it cannot be changed in any way
-The team leader is listed as first member in this table
